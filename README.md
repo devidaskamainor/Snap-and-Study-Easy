@@ -39,3 +39,4 @@ python -m streamlit run app.py
 ```
 
 Open the local URL printed by Streamlit, usually `http://localhost:8501`.
+Deploy limk:https://study-easy-128.streamlit.app/
